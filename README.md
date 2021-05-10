@@ -18,9 +18,17 @@ Hi, my name is Henrique Sousa I'm studying to become a fullstack Developer
 
 ---
 
-<details>
-  <summary> <b> Want to know more about me ? </b> <i>(Click here)</i> </summary>
-  <br>
+<br/>
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ricknois&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricknois&theme=react&line_height=40&hide=css"/>
+    </a>
+  </div>  
+<br/>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=ricknois&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ricknois)
 
