@@ -13,8 +13,6 @@ Hi, my name is Henrique Sousa I'm studying to become a fullstack Developer
 - :books: Studying IT management and fullstack development
 
 
- [My Trybe projects](https://ricknois.github.io/projetos.html)
-
 ---
 
 <br/>
