@@ -12,7 +12,6 @@ Hi, my name is Henrique Sousa I'm studying to become a fullstack Developer
 - :blue_heart: Techs: Java, Html, CSS, JavaScript and others
 - :books: Studying IT management and fullstack development
 
-> :octocat: [My Site](https://ricknois.github.io/)
 
  [My Trybe projects](https://ricknois.github.io/projetos.html)
 
