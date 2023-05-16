@@ -9,10 +9,10 @@ My apps - https://bityli.com/pAZPg
 
 ## Hi! 👋
 
-Hi, my name is Henrique Sousa I'm studying to become a fullstack Developer
+Hi, my name is Henrique Sousa I'm a fullstack Developer
 
-- :blue_heart: Techs: Java, Html, CSS, JavaScript and others
-- :books: Studying IT management and fullstack development
+- :blue_heart: Techs: Java, Html, CSS, JavaScript, React and others
+- :books: Graduated in IT management and fullstack development
 
 
 ---
